@@ -3,11 +3,11 @@
 Summary:.
 
 Section 1: Pending Todos
-- [ ] Create project functionality
-- [ ] Add todo functionality
-- [ ] Implement user interface
-- [ ] Set up database connection
-- [ ] Test application
+- [x]  Create project functionality
+- [x] Add todo functionality
+- [x]  Implement user interface
+- [x] Set up database connection
+- [x]  Test application
  Section 2: Completed Todos
 - [x] Initialize project structure
 - [x] Configure Maven dependencies
