@@ -1,2 +1,15 @@
-# homeassignment
-The Home Assignment project is a web application designed to demonstrate core concepts of Java web development using Servlets, JSP, and the Spring framework. The application aims to provide a platform for users to manage their tasks effectively by enabling them to create, read, update, and delete tasks through a user-friendly interface
+ Java Full Stack Todo Application
+
+Summary:.
+
+Section 1: Pending Todos
+- [ ] Create project functionality
+- [ ] Add todo functionality
+- [ ] Implement user interface
+- [ ] Set up database connection
+- [ ] Test application
+ Section 2: Completed Todos
+- [x] Initialize project structure
+- [x] Configure Maven dependencies
+- [x] Develop database schema
+
